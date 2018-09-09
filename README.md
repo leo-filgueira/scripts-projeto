@@ -3,4 +3,7 @@
 Portal: http://bit.ly/portalestatisticacomr
 Canal no YouTube: http://bit.ly/YTestatisticacomr
 
-<img src="man/figures/logo_grande.png" class="center">
+![]()
+<p align="center">
+  <man/figures/logo_grande.png />
+</p>
