@@ -34,7 +34,7 @@ df <- full_join(df1, df2, by="key")
 
 str_replace_na(df, "-")
 
-## não fica mt legal, precisa ser especificado a coluna
+## não fica mt legal, a coluna precisa ser especificada
 
 str_replace_na(df$frutas, "-")
 str_replace_na(df$numeros, "-")
