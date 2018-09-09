@@ -6,7 +6,7 @@ library(tidyverse)
 
 # str_c - concatena strings
 rio <- "Rio de Janeiro"
-str_c("O ", rio, " é lindo.")
+str_c("O", rio, "é lindo", sep = " ")
 
 pessoas <- c("Godofredo", "Josefa")
 lugares <- c("Minas Gerais", "São Paulo")
